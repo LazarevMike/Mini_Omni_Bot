@@ -1,0 +1,6 @@
+/.pio/
+/.vscode/
+/tools/host_test/build/
+/tools/__pycache__/
+/docs/images/originals/
+/private/

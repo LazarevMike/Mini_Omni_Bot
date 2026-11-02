@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 496" width="640" height="496" font-family="Arial, Helvetica, sans-serif" role="img">
+<title>PWM: a pin switched on for 25%, 50% and 75% of each cycle</title>
+<!-- Made by tools/make_drawings.py: change it there and run it again. -->
+<rect x="2" y="2" width="636" height="492" rx="24" fill="#ffffff" stroke="#d5dbe3" stroke-width="2"/>
+<text x="40.0" y="44.0" font-size="22" fill="#1f2933" font-weight="bold" text-anchor="start">25% duty cycle</text>
+<text x="222.0" y="44.0" font-size="17" fill="#5f6b7a" font-weight="normal" text-anchor="start">analogWrite(64): about a quarter of full power</text>
+<polyline points="40.0,124.0 40.0,62.0 86.5,62.0 86.5,124.0 226.0,124.0 226.0,62.0 272.5,62.0 272.5,124.0 412.0,124.0 412.0,62.0 458.5,62.0 458.5,124.0 598.0,124.0" fill="none" stroke="#1c6fd6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="40.0" y1="108.5" x2="598.0" y2="108.5" stroke="#e8590c" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 8"/>
+<text x="40.0" y="202.0" font-size="22" fill="#1f2933" font-weight="bold" text-anchor="start">50% duty cycle</text>
+<text x="222.0" y="202.0" font-size="17" fill="#5f6b7a" font-weight="normal" text-anchor="start">analogWrite(128): about half of full power</text>
+<polyline points="40.0,282.0 40.0,220.0 133.0,220.0 133.0,282.0 226.0,282.0 226.0,220.0 319.0,220.0 319.0,282.0 412.0,282.0 412.0,220.0 505.0,220.0 505.0,282.0 598.0,282.0" fill="none" stroke="#1c6fd6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="40.0" y1="251.0" x2="598.0" y2="251.0" stroke="#e8590c" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 8"/>
+<text x="40.0" y="360.0" font-size="22" fill="#1f2933" font-weight="bold" text-anchor="start">75% duty cycle</text>
+<text x="222.0" y="360.0" font-size="17" fill="#5f6b7a" font-weight="normal" text-anchor="start">analogWrite(191): about three quarters of full power</text>
+<polyline points="40.0,440.0 40.0,378.0 179.5,378.0 179.5,440.0 226.0,440.0 226.0,378.0 365.5,378.0 365.5,440.0 412.0,440.0 412.0,378.0 551.5,378.0 551.5,440.0 598.0,440.0" fill="none" stroke="#1c6fd6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="40.0" y1="393.5" x2="598.0" y2="393.5" stroke="#e8590c" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 8"/>
+<line x1="49.6" y1="462.0" x2="216.4" y2="462.0" stroke="#5f6b7a" stroke-width="3"/>
+<polygon points="226.0,462.0 216.4,468.0 216.4,456.0" fill="#5f6b7a"/>
+<polygon points="40.0,462.0 49.6,456.0 49.6,468.0" fill="#5f6b7a"/>
+<text x="133.0" y="488.0" font-size="18" fill="#5f6b7a" font-weight="normal" text-anchor="middle">one cycle</text>
+<line x1="330.0" y1="481.0" x2="378.0" y2="481.0" stroke="#e8590c" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 8"/>
+<text x="388.0" y="488.0" font-size="18" fill="#1f2933" font-weight="normal" text-anchor="start">average power</text>
+</svg>

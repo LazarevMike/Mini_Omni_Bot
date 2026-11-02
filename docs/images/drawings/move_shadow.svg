@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" font-family="Arial, Helvetica, sans-serif" role="img">
+<title>The shadow idea: a wheel takes the part of the move that lies along it</title>
+<!-- Made by tools/make_drawings.py: change it there and run it again. -->
+<rect x="2" y="2" width="636" height="396" rx="24" fill="#ffffff" stroke="#d5dbe3" stroke-width="2"/>
+<line x1="28" y1="210" x2="216" y2="210" stroke="#97a1ac" stroke-width="3"/>
+<g transform="translate(52.0 210.0) rotate(0.0)"><rect x="-24.0" y="-10.0" width="48" height="20" rx="6" fill="#3a3f47"/><line x1="-14.4" y1="-7.0" x2="-14.4" y2="7.0" stroke="#8c96a3" stroke-width="2"/><line x1="-4.8" y1="-7.0" x2="-4.8" y2="7.0" stroke="#8c96a3" stroke-width="2"/><line x1="4.8" y1="-7.0" x2="4.8" y2="7.0" stroke="#8c96a3" stroke-width="2"/><line x1="14.4" y1="-7.0" x2="14.4" y2="7.0" stroke="#8c96a3" stroke-width="2"/></g>
+<line x1="92" y1="210" x2="202.0" y2="210" stroke="#1c6fd6" stroke-width="14" stroke-linecap="round" opacity="0.85"/>
+<line x1="92.0" y1="210.0" x2="182.8" y2="210.0" stroke="#e8590c" stroke-width="6"/>
+<polygon points="202.0,210.0 182.8,221.9 182.8,198.1" fill="#e8590c"/>
+<text x="122.0" y="260.0" font-size="24" fill="#1f2933" font-weight="bold" text-anchor="middle">all of it</text>
+<text x="122.0" y="288.0" font-size="22" fill="#5f6b7a" font-weight="normal" text-anchor="middle">the way it rolls</text>
+<line x1="233" y1="210" x2="421" y2="210" stroke="#97a1ac" stroke-width="3"/>
+<g transform="translate(257.0 210.0) rotate(0.0)"><rect x="-24.0" y="-10.0" width="48" height="20" rx="6" fill="#3a3f47"/><line x1="-14.4" y1="-7.0" x2="-14.4" y2="7.0" stroke="#8c96a3" stroke-width="2"/><line x1="-4.8" y1="-7.0" x2="-4.8" y2="7.0" stroke="#8c96a3" stroke-width="2"/><line x1="4.8" y1="-7.0" x2="4.8" y2="7.0" stroke="#8c96a3" stroke-width="2"/><line x1="14.4" y1="-7.0" x2="14.4" y2="7.0" stroke="#8c96a3" stroke-width="2"/></g>
+<line x1="297" y1="210" x2="352.0" y2="210" stroke="#1c6fd6" stroke-width="14" stroke-linecap="round" opacity="0.85"/>
+<line x1="352.0" y1="114.7" x2="352.0" y2="210" stroke="#97a1ac" stroke-width="3" stroke-dasharray="7 6"/>
+<line x1="297.0" y1="210.0" x2="342.4" y2="131.4" stroke="#e8590c" stroke-width="6"/>
+<polygon points="352.0,114.7 352.7,137.3 332.1,125.4" fill="#e8590c"/>
+<text x="327.0" y="260.0" font-size="24" fill="#1f2933" font-weight="bold" text-anchor="middle">half of it</text>
+<text x="327.0" y="288.0" font-size="22" fill="#5f6b7a" font-weight="normal" text-anchor="middle">at 60°</text>
+<line x1="438" y1="210" x2="626" y2="210" stroke="#97a1ac" stroke-width="3"/>
+<g transform="translate(462.0 210.0) rotate(0.0)"><rect x="-24.0" y="-10.0" width="48" height="20" rx="6" fill="#3a3f47"/><line x1="-14.4" y1="-7.0" x2="-14.4" y2="7.0" stroke="#8c96a3" stroke-width="2"/><line x1="-4.8" y1="-7.0" x2="-4.8" y2="7.0" stroke="#8c96a3" stroke-width="2"/><line x1="4.8" y1="-7.0" x2="4.8" y2="7.0" stroke="#8c96a3" stroke-width="2"/><line x1="14.4" y1="-7.0" x2="14.4" y2="7.0" stroke="#8c96a3" stroke-width="2"/></g>
+<circle cx="502" cy="210" r="8" fill="#1c6fd6"/>
+<line x1="502.0" y1="210.0" x2="502.0" y2="119.2" stroke="#e8590c" stroke-width="6"/>
+<polygon points="502.0,100.0 513.9,119.2 490.1,119.2" fill="#e8590c"/>
+<text x="532.0" y="260.0" font-size="24" fill="#1f2933" font-weight="bold" text-anchor="middle">none of it</text>
+<text x="532.0" y="288.0" font-size="22" fill="#5f6b7a" font-weight="normal" text-anchor="middle">at right angles</text>
+<line x1="70.0" y1="356.0" x2="100.8" y2="356.0" stroke="#e8590c" stroke-width="6"/>
+<polygon points="120.0,356.0 100.8,367.9 100.8,344.1" fill="#e8590c"/>
+<text x="132.0" y="364.0" font-size="22" fill="#1f2933" font-weight="normal" text-anchor="start">the move you want</text>
+<line x1="360" y1="356" x2="400" y2="356" stroke="#1c6fd6" stroke-width="14" stroke-linecap="round" opacity="0.85"/>
+<text x="418.0" y="364.0" font-size="22" fill="#1f2933" font-weight="normal" text-anchor="start">the wheel's share</text>
+</svg>

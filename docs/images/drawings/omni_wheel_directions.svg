@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 447" width="640" height="447" font-family="Arial, Helvetica, sans-serif" role="img">
+<title>One omni wheel: it rolls and pushes one way, and slides along its axle</title>
+<!-- Made by tools/make_drawings.py: change it there and run it again. -->
+<rect x="2" y="2" width="636" height="443" rx="24" fill="#ffffff" stroke="#d5dbe3" stroke-width="2"/>
+<line x1="40" y1="333" x2="400" y2="333" stroke="#d5dbe3" stroke-width="4" stroke-linecap="round"/>
+<circle cx="221.3" cy="190.1" r="122" fill="#c4cbd4"/>
+<g transform="translate(306.5 239.6) rotate(108)"><rect x="-27" y="-14" width="54" height="28" rx="14" fill="#3a3f47"/><line x1="-18" y1="0" x2="18" y2="0" stroke="#8c96a3" stroke-width="3" stroke-linecap="round"/></g>
+<g transform="translate(265.8 295.6) rotate(144)"><rect x="-27" y="-14" width="54" height="28" rx="14" fill="#3a3f47"/><line x1="-18" y1="0" x2="18" y2="0" stroke="#8c96a3" stroke-width="3" stroke-linecap="round"/></g>
+<g transform="translate(200.0 317.0) rotate(180)"><rect x="-27" y="-14" width="54" height="28" rx="14" fill="#3a3f47"/><line x1="-18" y1="0" x2="18" y2="0" stroke="#8c96a3" stroke-width="3" stroke-linecap="round"/></g>
+<g transform="translate(134.2 295.6) rotate(216)"><rect x="-27" y="-14" width="54" height="28" rx="14" fill="#3a3f47"/><line x1="-18" y1="0" x2="18" y2="0" stroke="#8c96a3" stroke-width="3" stroke-linecap="round"/></g>
+<g transform="translate(93.5 239.6) rotate(252)"><rect x="-27" y="-14" width="54" height="28" rx="14" fill="#3a3f47"/><line x1="-18" y1="0" x2="18" y2="0" stroke="#8c96a3" stroke-width="3" stroke-linecap="round"/></g>
+<g transform="translate(93.5 170.4) rotate(288)"><rect x="-27" y="-14" width="54" height="28" rx="14" fill="#3a3f47"/><line x1="-18" y1="0" x2="18" y2="0" stroke="#8c96a3" stroke-width="3" stroke-linecap="round"/></g>
+<g transform="translate(134.2 114.4) rotate(324)"><rect x="-27" y="-14" width="54" height="28" rx="14" fill="#3a3f47"/><line x1="-18" y1="0" x2="18" y2="0" stroke="#8c96a3" stroke-width="3" stroke-linecap="round"/></g>
+<g transform="translate(200.0 93.0) rotate(360)"><rect x="-27" y="-14" width="54" height="28" rx="14" fill="#3a3f47"/><line x1="-18" y1="0" x2="18" y2="0" stroke="#8c96a3" stroke-width="3" stroke-linecap="round"/></g>
+<g transform="translate(265.8 114.4) rotate(396)"><rect x="-27" y="-14" width="54" height="28" rx="14" fill="#3a3f47"/><line x1="-18" y1="0" x2="18" y2="0" stroke="#8c96a3" stroke-width="3" stroke-linecap="round"/></g>
+<g transform="translate(306.5 170.4) rotate(432)"><rect x="-27" y="-14" width="54" height="28" rx="14" fill="#3a3f47"/><line x1="-18" y1="0" x2="18" y2="0" stroke="#8c96a3" stroke-width="3" stroke-linecap="round"/></g>
+<circle cx="200" cy="205" r="96" fill="#e4e8ed" stroke="#3a3f47" stroke-width="4"/>
+<circle cx="200.0" cy="149.0" r="15" fill="#ffffff" stroke="#8c96a3" stroke-width="3"/>
+<circle cx="146.7" cy="187.7" r="15" fill="#ffffff" stroke="#8c96a3" stroke-width="3"/>
+<circle cx="167.1" cy="250.3" r="15" fill="#ffffff" stroke="#8c96a3" stroke-width="3"/>
+<circle cx="232.9" cy="250.3" r="15" fill="#ffffff" stroke="#8c96a3" stroke-width="3"/>
+<circle cx="253.3" cy="187.7" r="15" fill="#ffffff" stroke="#8c96a3" stroke-width="3"/>
+<circle cx="200" cy="205" r="24" fill="#3a3f47"/>
+<line x1="79.1" y1="289.7" x2="320.9" y2="120.3" stroke="#ffffff" stroke-width="15" stroke-linecap="round"/>
+<line x1="79.1" y1="289.7" x2="320.9" y2="120.3" stroke="#5f6b7a" stroke-width="7"/>
+<polygon points="339.3,107.5 328.9,131.7 312.9,109.0" fill="#5f6b7a"/>
+<polygon points="60.7,302.5 71.1,278.3 87.1,301.0" fill="#5f6b7a"/>
+<text x="330.0" y="50.0" font-size="24" fill="#1f2933" font-weight="bold" text-anchor="middle">slides this way,</text>
+<text x="330.0" y="78.0" font-size="24" fill="#1f2933" font-weight="bold" text-anchor="middle">on its rollers</text>
+<line x1="65.6" y1="375.0" x2="334.4" y2="375.0" stroke="#1c6fd6" stroke-width="8"/>
+<polygon points="360.0,375.0 334.4,390.9 334.4,359.1" fill="#1c6fd6"/>
+<polygon points="40.0,375.0 65.6,359.1 65.6,390.9" fill="#1c6fd6"/>
+<text x="200.0" y="421.0" font-size="24" fill="#1c6fd6" font-weight="bold" text-anchor="middle">rolls and pushes this way</text>
+<rect x="440" y="120" width="176" height="300" rx="16" fill="#f7f9fb" stroke="#d5dbe3" stroke-width="2"/>
+<text x="528.0" y="156.0" font-size="22" fill="#5f6b7a" font-weight="bold" text-anchor="middle">from above</text>
+<g transform="translate(528.0 262.0) rotate(0.0)"><rect x="-48.0" y="-16.0" width="96" height="32" rx="6" fill="#3a3f47"/><line x1="-28.8" y1="-13.0" x2="-28.8" y2="13.0" stroke="#8c96a3" stroke-width="2"/><line x1="-9.6" y1="-13.0" x2="-9.6" y2="13.0" stroke="#8c96a3" stroke-width="2"/><line x1="9.6" y1="-13.0" x2="9.6" y2="13.0" stroke="#8c96a3" stroke-width="2"/><line x1="28.8" y1="-13.0" x2="28.8" y2="13.0" stroke="#8c96a3" stroke-width="2"/></g>
+<line x1="528.0" y1="211.2" x2="528.0" y2="312.8" stroke="#ffffff" stroke-width="14" stroke-linecap="round"/>
+<line x1="528.0" y1="211.2" x2="528.0" y2="312.8" stroke="#5f6b7a" stroke-width="6"/>
+<polygon points="528.0,332.0 516.1,312.8 539.9,312.8" fill="#5f6b7a"/>
+<polygon points="528.0,192.0 539.9,211.2 516.1,211.2" fill="#5f6b7a"/>
+<text x="540.0" y="208.0" font-size="22" fill="#1f2933" font-weight="bold" text-anchor="start">slides</text>
+<line x1="484.4" y1="364.0" x2="571.6" y2="364.0" stroke="#1c6fd6" stroke-width="7"/>
+<polygon points="594.0,364.0 571.6,377.9 571.6,350.1" fill="#1c6fd6"/>
+<polygon points="462.0,364.0 484.4,350.1 484.4,377.9" fill="#1c6fd6"/>
+<text x="528.0" y="400.0" font-size="22" fill="#1c6fd6" font-weight="bold" text-anchor="middle">rolls</text>
+</svg>

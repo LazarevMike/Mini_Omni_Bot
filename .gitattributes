@@ -1,0 +1,11 @@
+# The packed driving page is generated from web/ by tools/embed_web.py.
+firmware/OmniBots_Mini/web_assets.h linguist-generated=true
+
+# Pictures are never treated as text.
+*.jpg binary
+*.jpeg binary
+*.JPG binary
+*.png binary
+
+# Shell scripts keep Unix line endings on every system, so that they still run.
+*.sh text eol=lf

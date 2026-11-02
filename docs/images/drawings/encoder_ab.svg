@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 526" width="640" height="526" font-family="Arial, Helvetica, sans-serif" role="img">
+<title>The encoder's two signals, A and B, a quarter cycle apart, with each change counted</title>
+<!-- Made by tools/make_drawings.py: change it there and run it again. -->
+<rect x="2" y="2" width="636" height="522" rx="24" fill="#ffffff" stroke="#d5dbe3" stroke-width="2"/>
+<text x="40.0" y="38.0" font-size="20" fill="#1f2933" font-weight="bold" text-anchor="start">One direction: A changes first; each change counts +1</text>
+<line x1="551.0" y1="54.0" x2="551.0" y2="190.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="489.0" y1="54.0" x2="489.0" y2="190.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="427.0" y1="54.0" x2="427.0" y2="190.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="365.0" y1="54.0" x2="365.0" y2="190.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="303.0" y1="54.0" x2="303.0" y2="190.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="241.0" y1="54.0" x2="241.0" y2="190.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="179.0" y1="54.0" x2="179.0" y2="190.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="117.0" y1="54.0" x2="117.0" y2="190.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<polyline points="86.0,110.0 117.0,110.0 117.0,66.0 241.0,66.0 241.0,110.0 365.0,110.0 365.0,66.0 489.0,66.0 489.0,110.0 582.0,110.0" fill="none" stroke="#1c6fd6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="58.0" y="96.0" font-size="24" fill="#1f2933" font-weight="bold" text-anchor="middle">A</text>
+<polyline points="86.0,184.0 179.0,184.0 179.0,140.0 303.0,140.0 303.0,184.0 427.0,184.0 427.0,140.0 551.0,140.0 551.0,184.0 582.0,184.0" fill="none" stroke="#2b8a3e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="58.0" y="170.0" font-size="24" fill="#1f2933" font-weight="bold" text-anchor="middle">B</text>
+<text x="117.0" y="216.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">+1</text>
+<text x="179.0" y="216.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">+1</text>
+<text x="241.0" y="216.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">+1</text>
+<text x="303.0" y="216.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">+1</text>
+<text x="365.0" y="216.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">+1</text>
+<text x="427.0" y="216.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">+1</text>
+<text x="489.0" y="216.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">+1</text>
+<text x="551.0" y="216.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">+1</text>
+<line x1="126.6" y1="238.0" x2="355.4" y2="238.0" stroke="#5f6b7a" stroke-width="3"/>
+<polygon points="365.0,238.0 355.4,244.0 355.4,232.0" fill="#5f6b7a"/>
+<polygon points="117.0,238.0 126.6,232.0 126.6,244.0" fill="#5f6b7a"/>
+<text x="241.0" y="264.0" font-size="19" fill="#1f2933" font-weight="bold" text-anchor="middle">1 pulse = 4 counts</text>
+<text x="40.0" y="322.0" font-size="20" fill="#1f2933" font-weight="bold" text-anchor="start">Other direction: B changes first; each change counts −1</text>
+<line x1="551.0" y1="338.0" x2="551.0" y2="474.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="489.0" y1="338.0" x2="489.0" y2="474.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="427.0" y1="338.0" x2="427.0" y2="474.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="365.0" y1="338.0" x2="365.0" y2="474.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="303.0" y1="338.0" x2="303.0" y2="474.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="241.0" y1="338.0" x2="241.0" y2="474.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="179.0" y1="338.0" x2="179.0" y2="474.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<line x1="117.0" y1="338.0" x2="117.0" y2="474.0" stroke="#97a1ac" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+<polyline points="86.0,394.0 179.0,394.0 179.0,350.0 303.0,350.0 303.0,394.0 427.0,394.0 427.0,350.0 551.0,350.0 551.0,394.0 582.0,394.0" fill="none" stroke="#1c6fd6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="58.0" y="380.0" font-size="24" fill="#1f2933" font-weight="bold" text-anchor="middle">A</text>
+<polyline points="86.0,468.0 117.0,468.0 117.0,424.0 241.0,424.0 241.0,468.0 365.0,468.0 365.0,424.0 489.0,424.0 489.0,468.0 582.0,468.0" fill="none" stroke="#2b8a3e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="58.0" y="454.0" font-size="24" fill="#1f2933" font-weight="bold" text-anchor="middle">B</text>
+<text x="117.0" y="500.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">−1</text>
+<text x="179.0" y="500.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">−1</text>
+<text x="241.0" y="500.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">−1</text>
+<text x="303.0" y="500.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">−1</text>
+<text x="365.0" y="500.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">−1</text>
+<text x="427.0" y="500.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">−1</text>
+<text x="489.0" y="500.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">−1</text>
+<text x="551.0" y="500.0" font-size="19" fill="#e8590c" font-weight="bold" text-anchor="middle">−1</text>
+</svg>
