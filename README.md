@@ -5,10 +5,12 @@
 **Status: prototype.** The robot has been built and driven, but the chassis print files are not
 published yet and the battery has not been selected. See [known limitations](#known-limitations).
 
-Mini Omni Bot is an open-source educational robot that moves in any direction. Its three Omni
-Wheels by Omnia each push one way and slide the other, so the robot drives forward, sideways or
-diagonally and turns on the spot without steering. The guides lead a beginner from a set of parts
-to a driving robot.
+Mini Omni Bot is an open-source educational robot that moves in any direction. Its three
+[Omni Wheels by Omnia](https://www.rotacaster.com.au/shop/rotacaster-wheels/index?preview=1) each
+push one way and slide the other, so the robot drives forward, sideways or diagonally and turns on
+the spot without steering. The guides lead a beginner from a set of parts to a driving robot.
+
+<p align="center"><a href="https://www.rotacaster.com.au/shop/rotacaster-wheels/index?preview=1"><img src="docs/images/parts/omni_wheels_by_omnia.png" width="560" alt="Omni Wheels by Omnia in six sizes, grey hubs with black rollers ringed in blue"></a></p>
 
 ## What you can do with it
 

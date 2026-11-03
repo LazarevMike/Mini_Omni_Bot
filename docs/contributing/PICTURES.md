@@ -82,6 +82,12 @@ M1, M3 or M4, because the photos cannot prove which is which.
 | `software/phone_page_tour.png` | The driving page on a phone, with callouts 1 to 10; made with `tools/fake_robot.py --hotspot` | README; docs 06 |
 | `software/setup_arduino_serial_monitor.png` | Example, not a capture: see [Still to make](#still-to-make) | docs 04 |
 
+## Product pictures
+
+| File (in `docs/images/`) | What it shows | Pages that use it |
+|--------------------------|---------------|-------------------|
+| `parts/omni_wheels_by_omnia.png` | Omnia Wheel's product picture of its omni wheel range, transparent background; links to the shop | README |
+
 ## Drawings
 
 Drawn by `tools/make_drawings.py`, with the same wheel angles as `config.h` and the board layouts

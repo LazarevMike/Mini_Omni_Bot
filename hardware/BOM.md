@@ -21,7 +21,7 @@ A board other than the Romeo also needs three Pololu DRV8876 driver boards
 
 | Qty | Part | Example source | Notes |
 |-----|------|----------------|-------|
-| 3 | Omni Wheels by Omnia | Available from Omnia Wheel | Each fits on a printed hub (below) |
+| 3 | Omni Wheels by Omnia, 50 mm | [Omnia Wheel shop](https://www.rotacaster.com.au/shop/50mm-omni-wheels/index) | Each fits on a printed hub (below) |
 
 ## Power
 

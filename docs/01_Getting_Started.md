@@ -55,7 +55,7 @@ USB cable.
 |-----|-----------|-------|
 | 1 | DFRobot Romeo ESP32-S3 (DFR0994), with its WiFi antenna | Controller, WiFi and motor drivers |
 | 3 | DFRobot FIT0493 motors with encoders | 12 V, 350 rpm, each with a six-wire cable |
-| 3 | Omni Wheels by Omnia | Available from Omnia Wheel |
+| 3 | Omni Wheels by Omnia, 50 mm | From the [Omnia Wheel shop](https://www.rotacaster.com.au/shop/50mm-omni-wheels/index) |
 | 1 | 12 V battery and charger | Not yet selected: wait for the recommended pack |
 | 1 | Battery lead with an XT60 plug | Joins the battery to the board |
 | 1 set | 3D printed chassis parts | Motor plate, top plate, board frame, battery holder, antenna bracket, 3 hubs and 3 pillars ([hardware/](../hardware/README.md)) |
