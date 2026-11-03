@@ -25,7 +25,7 @@ The picture leaves out the pillars, the screws and nuts, and the battery.
 | **Antenna bracket** | 1 | A small upright stand that carries the flat WiFi antenna |
 | **Hub** | 3 | The part that joins a wheel to a motor shaft |
 | DFRobot FIT0493 motor, with its six-wire cable | 3 | |
-| Omni Wheel by Omnia | 3 | |
+| [Omni Wheel by Omnia](https://www.rotacaster.com.au/shop/50mm-omni-wheels/index), 50 mm | 3 | |
 | DFRobot Romeo ESP32-S3 board, with its WiFi antenna | 1 | |
 | Single-way female **Dupont** lead, with heat-shrink sleeve | 12 | A Dupont lead ends in a small socket that pushes onto a header pin |
 | Battery lead with an **XT60** plug | 1 | XT60 is a high-current battery connector |

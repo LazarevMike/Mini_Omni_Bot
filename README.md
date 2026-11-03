@@ -31,9 +31,10 @@ the full route and a quick start for experienced makers.
 
 ## Parts
 
-Three Omni Wheels by Omnia, available from Omnia Wheel; three DFRobot FIT0493 12 V motors with
-encoders; a DFRobot Romeo ESP32-S3 board; a 12 V battery and charger (pack not yet selected); and
-a 3D printed chassis with screws and nuts. The [parts list](hardware/BOM.md) gives every item.
+Three 50 mm [Omni Wheels by Omnia](https://www.rotacaster.com.au/shop/50mm-omni-wheels/index),
+available from Omnia Wheel; three DFRobot FIT0493 12 V motors with encoders; a DFRobot Romeo
+ESP32-S3 board; a 12 V battery and charger (pack not yet selected); and a 3D printed chassis
+with screws and nuts. The [parts list](hardware/BOM.md) gives every item.
 Battery charging needs adult supervision: read [Safety](docs/01_Getting_Started.md#safety) first.
 
 ## Project status

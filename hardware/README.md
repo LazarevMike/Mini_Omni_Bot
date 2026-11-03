@@ -11,7 +11,8 @@ and [Assembly](../docs/02_Assembly.md) describe the printed parts from the photo
 | [drawings/](drawings/README.md) | To come: PDF drawings with dimensions and hole positions | Making or checking a part |
 | [LICENSE](LICENSE) | CERN Open Hardware Licence v2, Permissive | Terms of use |
 
-The Omni Wheels by Omnia, available from Omnia Wheel, and the electronics are bought, not made;
+The [Omni Wheels by Omnia](https://www.rotacaster.com.au/shop/50mm-omni-wheels/index), available
+from Omnia Wheel, and the electronics are bought, not made;
 DFRobot publishes the Romeo board's CAD drawing and 3D model on its
 [wiki](https://wiki.dfrobot.com/dfr0994/). [Assembly](../docs/02_Assembly.md) describes the
 build.
